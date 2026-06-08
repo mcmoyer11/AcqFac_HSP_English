@@ -1,0 +1,108 @@
+---
+title: "Power analysis for Choice ~ Verb*Root*Comp"
+output: html_document
+---
+
+```{r setup, message=FALSE, warning=FALSE}
+library(lme4)
+library(dplyr)
+library(purrr)
+library(ggplot2)
+this.dir <- dirname(rstudioapi::getSourceEditorContext()$path)
+setwd(this.dir)
+```
+# Expoerimental design
+2x2x2
+technically one cell doesn't exists
+but better to simulate the full design 
+```{r design}
+set.seed(666)
+
+design <- expand.grid(
+  Verb = c(0, 1),
+  Root = c(0, 1),
+  Comp = c(0, 1)
+)
+
+# As one cell does not exist, remove it here
+# make it up 
+# Technically one cell is impossible but we simulate the full 2x2x2
+# design <- subset(design, !(Verb == 1 & Root == 1 & Comp == 1))
+
+n_items_per_cell <- 15
+```
+
+intercept: -0.2
+
+Verb: 0.4
+
+Root: 0.4
+
+Comp: 0.2
+
+Verb:Root: 0.1
+
+Verb:Comp: 0.1
+
+Root:Comp: 0.1
+
+Verb:Root:Comp: 0.2
+
+```{r simulate-function}
+sim_one <- function(n_subj = 100,
+                    beta = c(-0.2, 0.2, 0.4, 0.4, 0.1, 0.1, 0.2, 0.2),
+                    sd_subj = 0.8) {
+
+  dat <- design[rep(seq_len(nrow(design)), each = n_items_per_cell), ]
+  dat$item <- sequence(rep(n_items_per_cell, nrow(design)))
+
+  dat <- tidyr::crossing(subj = factor(seq_len(n_subj)), dat)
+
+  subj_re <- rnorm(n_subj, 0, sd_subj)
+  X <- model.matrix(~ Verb * Root * Comp, dat)
+
+  eta <- as.numeric(X %*% beta) + subj_re[dat$subj]
+  p <- plogis(eta)
+  dat$Choice <- rbinom(nrow(dat), 1, p)
+
+  fit <- glmer(Choice ~ Verb * Root * Comp + (1 | subj),
+               data = dat, family = binomial)
+
+  pval <- summary(fit)$coefficients["Verb:Root:Comp", "Pr(>|z|)"]
+  pval
+}
+```
+
+```{r power-estimate}
+pvals <- replicate(1000, sim_one())
+power <- mean(pvals < 0.05, na.rm = TRUE)
+power
+```
+
+```{r graph}
+
+
+# assumes you already have sim_one(n_subj) that returns a p-value for your target effect
+
+n_grid <- seq(20, 120, by = 10)
+n_sims <- 500   # or 1000 for smoother estimates
+
+power_df <- map_dfr(n_grid, function(n) {
+  pvals <- replicate(n_sims, sim_one(n_subj = n))
+  data.frame(
+    n_subj = n,
+    power = mean(pvals < 0.05, na.rm = TRUE)
+  )
+})
+
+ggplot(power_df, aes(x = power, y = n_subj)) +
+  geom_line() +
+  geom_point() +
+  scale_x_continuous(limits = c(0, 1)) +
+  labs(
+    x = "Power",
+    y = "Number of participants"
+  ) +
+  theme_minimal()
+```
+
