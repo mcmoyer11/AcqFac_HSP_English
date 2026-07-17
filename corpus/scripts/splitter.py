@@ -1,6 +1,3 @@
-
-# python3 splitter.py ../data/seed_666_clean.csv
-
 #!/usr/bin/env python3
 import pandas as pd
 import sys
@@ -21,9 +18,13 @@ def split_csv_by_factors(input_file):
         print(f"Error reading CSV: {e}")
         sys.exit(1)
 
-    if 'Factors' not in df.columns:
-        print("Error: 'Factors' column not found in the CSV.")
+    required_cols = {'verb', 'force', 'comp'}
+    missing = required_cols - set(df.columns)
+    if missing:
+        print(f"Error: Missing required columns: {', '.join(sorted(missing))}")
         sys.exit(1)
+
+    df['Factors'] = df['verb'].astype(str) + '-' + df['force'].astype(str) + '-' + df['comp'].astype(str)
 
     output_dir = "../data/exp_files/"
     os.makedirs(output_dir, exist_ok=True)
