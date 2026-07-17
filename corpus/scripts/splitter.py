@@ -18,13 +18,13 @@ def split_csv_by_factors(input_file):
         print(f"Error reading CSV: {e}")
         sys.exit(1)
 
-    required_cols = {'verb', 'force', 'comp'}
+    required_cols = {'target', 'force', 'comp'}
     missing = required_cols - set(df.columns)
     if missing:
         print(f"Error: Missing required columns: {', '.join(sorted(missing))}")
         sys.exit(1)
 
-    df['Factors'] = df['verb'].astype(str) + '-' + df['force'].astype(str) + '-' + df['comp'].astype(str)
+    df['Factors'] = df['target'].astype(str) + '-' + df['force'].astype(str) + '-' + df['comp'].astype(str)
 
     output_dir = "../data/exp_files/"
     os.makedirs(output_dir, exist_ok=True)
