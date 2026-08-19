@@ -1,0 +1,465 @@
+#
+# Results on Mon, 12 May 2025 13:07:50 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. unique_id.
+# 15. know_option.
+# 16. think_option.
+# 17. target_line.
+# 18. Comments.
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,6,0,test,NULL,PennController,7,_Trial_,Start,1747055226936,undefined,6.052,know,think,*AUN:%09Kate %2C   you know what else they have at by the european ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,6,0,test,NULL,Selector,selection,Selection,know_option,1747055232564,undefined,6.052,know,think,*AUN:%09Kate %2C   you know what else they have at by the european ?,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,6,0,test,NULL,PennController,7,_Trial_,End,1747055232565,undefined,6.052,know,think,*AUN:%09Kate %2C   you know what else they have at by the european ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,7,0,test,NULL,PennController,8,_Trial_,Start,1747055232567,undefined,1.013,know,think,*AUN:%09oh yeah %2C I know that's a_lot_of good stuff in there xxx .,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,7,0,test,NULL,Selector,selection,Selection,know_option,1747055237781,undefined,1.013,know,think,*AUN:%09oh yeah %2C I know that's a_lot_of good stuff in there xxx .,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,7,0,test,NULL,PennController,8,_Trial_,End,1747055237783,undefined,1.013,know,think,*AUN:%09oh yeah %2C I know that's a_lot_of good stuff in there xxx .,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,8,0,test,NULL,PennController,9,_Trial_,Start,1747055237784,undefined,3.01,know,think,*FAT:%09I know what  that is .,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,8,0,test,NULL,Selector,selection,Selection,know_option,1747055245097,undefined,3.01,know,think,*FAT:%09I know what  that is .,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,8,0,test,NULL,PennController,9,_Trial_,End,1747055245098,undefined,3.01,know,think,*FAT:%09I know what  that is .,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,9,0,test,NULL,PennController,10,_Trial_,Start,1747055245100,undefined,4.002,know,think,*FAT:%09did his mother know he was here ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,9,0,test,NULL,Selector,selection,Selection,know_option,1747055256666,undefined,4.002,know,think,*FAT:%09did his mother know he was here ?,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,9,0,test,NULL,PennController,10,_Trial_,End,1747055256667,undefined,4.002,know,think,*FAT:%09did his mother know he was here ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,10,0,test,NULL,PennController,11,_Trial_,Start,1747055256668,undefined,5.114,know,think,*FAT:%09do they think they're gonna gonna catch the cat ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,10,0,test,NULL,Selector,selection,Selection,think_option,1747055266023,undefined,5.114,know,think,*FAT:%09do they think they're gonna gonna catch the cat ?,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,10,0,test,NULL,PennController,11,_Trial_,End,1747055266025,undefined,5.114,know,think,*FAT:%09do they think they're gonna gonna catch the cat ?,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,11,0,test,NULL,PennController,12,_Trial_,Start,1747055266026,undefined,2.18,knew,thought,*SAR:%09I thought he could fix  the thing .,NULL
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,11,0,test,NULL,Selector,selection,Selection,think_option,1747055270794,undefined,2.18,knew,thought,*SAR:%09I thought he could fix  the thing .,think_option;know_option
+1747055270,3c4f8f1e52d19cd74be30f5651b3b853,PennController,11,0,test,NULL,PennController,12,_Trial_,End,1747055270795,undefined,2.18,knew,thought,*SAR:%09I thought he could fix  the thing .,NULL
+#
+# Results on Mon, 12 May 2025 13:07:51 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+#
+# Results on Mon, 29 Jun 2026 23:14:16 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,92,0,consent,NULL,PennController,1,_Trial_,Start,1782774349109,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,92,0,consent,NULL,PennController,1,_Trial_,End,1782774351746,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,0,0,ask_ID,NULL,PennController,0,_Trial_,Start,1782774351748,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,0,0,ask_ID,NULL,TextInput,input_ID,First,,1782774353661,t
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,0,0,ask_ID,NULL,TextInput,input_ID,Final,test,1782774354828,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,0,0,ask_ID,NULL,PennController,0,_Trial_,End,1782774354828,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,94,0,instructions,NULL,PennController,3,_Trial_,Start,1782774354829,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,94,0,instructions,NULL,PennController,3,_Trial_,End,1782774412946,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,95,0,transition_training,NULL,PennController,4,_Trial_,Start,1782774412949,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,95,0,transition_training,NULL,PennController,4,_Trial_,End,1782774414418,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,96,0,transition_test,NULL,PennController,5,_Trial_,Start,1782774414419,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,96,0,transition_test,NULL,PennController,5,_Trial_,End,1782774416262,NULL
+# 13. ID.
+# 14. unique_id.
+# 15. know_option.
+# 16. think_option.
+# 17. target_line.
+# 18. Comments.
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,42,0,tdd,NULL,PennController,51,_Trial_,Start,1782774416265,test,2.116,know,think,MOTHER: I think we oughta try an put this car back together again.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,42,0,tdd,NULL,Selector,selection,Selection,think_option,1782774552557,test,2.116,know,think,MOTHER: I think we oughta try an put this car back together again.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,42,0,tdd,NULL,PennController,51,_Trial_,End,1782774552559,test,2.116,know,think,MOTHER: I think we oughta try an put this car back together again.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,29,0,kdd,NULL,PennController,38,_Trial_,Start,1782774552561,test,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,29,0,kdd,NULL,Selector,selection,Selection,know_option,1782774582733,test,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,29,0,kdd,NULL,PennController,38,_Trial_,End,1782774582734,test,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,2,0,kid,NULL,PennController,11,_Trial_,Start,1782774582736,test,4.008,know,think,MOTHER: you know that Betty's going to bring that dog to Israel?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,2,0,kid,NULL,Selector,selection,Selection,know_option,1782774595455,test,4.008,know,think,MOTHER: you know that Betty's going to bring that dog to Israel?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,2,0,kid,NULL,PennController,11,_Trial_,End,1782774595455,test,4.008,know,think,MOTHER: you know that Betty's going to bring that dog to Israel?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,79,0,kii,NULL,PennController,88,_Trial_,Start,1782774595457,test,6.096,know,think,FATHER: but you know what you could use this as?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,79,0,kii,NULL,Selector,selection,Selection,know_option,1782774631125,test,6.096,know,think,FATHER: but you know what you could use this as?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,79,0,kii,NULL,PennController,88,_Trial_,End,1782774631126,test,6.096,know,think,FATHER: but you know what you could use this as?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,53,0,tid,NULL,PennController,62,_Trial_,Start,1782774631127,test,5.083,know,think,FATHER: do you think that cat looks happy? ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,53,0,tid,NULL,Selector,selection,Selection,think_option,1782774679977,test,5.083,know,think,FATHER: do you think that cat looks happy? ,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,53,0,tid,NULL,PennController,62,_Trial_,End,1782774679978,test,5.083,know,think,FATHER: do you think that cat looks happy? ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,71,0,kdi,NULL,PennController,80,_Trial_,Start,1782774679980,test,3.01,know,think,FATHER: I know what  that is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,71,0,kdi,NULL,Selector,selection,Selection,know_option,1782774687626,test,3.01,know,think,FATHER: I know what  that is.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,71,0,kdi,NULL,PennController,80,_Trial_,End,1782774687627,test,3.01,know,think,FATHER: I know what  that is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,40,0,tdd,NULL,PennController,49,_Trial_,Start,1782774687629,test,2.212,knew,thought,FATHER: I thought you were my baby.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,40,0,tdd,NULL,Selector,selection,Selection,think_option,1782774694530,test,2.212,knew,thought,FATHER: I thought you were my baby.,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,40,0,tdd,NULL,PennController,49,_Trial_,End,1782774694531,test,2.212,knew,thought,FATHER: I thought you were my baby.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,30,0,kdd,NULL,PennController,39,_Trial_,Start,1782774694533,test,1.005,know,think,MOTHER: I know you have Rice Krispies here in the store someplace.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,30,0,kdd,NULL,Selector,selection,Selection,think_option,1782774702249,test,1.005,know,think,MOTHER: I know you have Rice Krispies here in the store someplace.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,30,0,kdd,NULL,PennController,39,_Trial_,End,1782774702250,test,1.005,know,think,MOTHER: I know you have Rice Krispies here in the store someplace.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,11,0,kid,NULL,PennController,20,_Trial_,Start,1782774702252,test,4.02,know,think,MOTHER: did you know cars come apart like this?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,11,0,kid,NULL,Selector,selection,Selection,know_option,1782774709545,test,4.02,know,think,MOTHER: did you know cars come apart like this?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,11,0,kid,NULL,PennController,20,_Trial_,End,1782774709546,test,4.02,know,think,MOTHER: did you know cars come apart like this?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,89,0,kii,NULL,PennController,98,_Trial_,Start,1782774709548,test,6.17,know,think,MOTHER: and you know what she does?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,89,0,kii,NULL,Selector,selection,Selection,know_option,1782774715681,test,6.17,know,think,MOTHER: and you know what she does?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,89,0,kii,NULL,PennController,98,_Trial_,End,1782774715682,test,6.17,know,think,MOTHER: and you know what she does?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,55,0,tid,NULL,PennController,64,_Trial_,Start,1782774715683,test,5.057,know,think,FATHER: do you think we should put this back together again... alright oh. ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,55,0,tid,NULL,Selector,selection,Selection,think_option,1782774722778,test,5.057,know,think,FATHER: do you think we should put this back together again... alright oh. ,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,55,0,tid,NULL,PennController,64,_Trial_,End,1782774722779,test,5.057,know,think,FATHER: do you think we should put this back together again... alright oh. ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,66,0,kdi,NULL,PennController,75,_Trial_,Start,1782774722781,test,3.003,know,think,FATHER: I know why I'm standing up.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,66,0,kdi,NULL,Selector,selection,Selection,know_option,1782774740163,test,3.003,know,think,FATHER: I know why I'm standing up.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,66,0,kdi,NULL,PennController,75,_Trial_,End,1782774740164,test,3.003,know,think,FATHER: I know why I'm standing up.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,37,0,tdd,NULL,PennController,46,_Trial_,Start,1782774740166,test,2.323,know,think,MOTHER: I think it is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,37,0,tdd,NULL,Selector,selection,Selection,think_option,1782774749035,test,2.323,know,think,MOTHER: I think it is.,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,37,0,tdd,NULL,PennController,46,_Trial_,End,1782774749036,test,2.323,know,think,MOTHER: I think it is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,20,0,kdd,NULL,PennController,29,_Trial_,Start,1782774749038,test,1.004,know,think,MOTHER: and I know you like little books.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,20,0,kdd,NULL,Selector,selection,Selection,know_option,1782774753576,test,1.004,know,think,MOTHER: and I know you like little books.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,20,0,kdd,NULL,PennController,29,_Trial_,End,1782774753577,test,1.004,know,think,MOTHER: and I know you like little books.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,13,0,kid,NULL,PennController,22,_Trial_,Start,1782774753579,test,4.012,know,think,MOTHER: do you know that this car comes apart?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,13,0,kid,NULL,Selector,selection,Selection,think_option,1782774759276,test,4.012,know,think,MOTHER: do you know that this car comes apart?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,13,0,kid,NULL,PennController,22,_Trial_,End,1782774759277,test,4.012,know,think,MOTHER: do you know that this car comes apart?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,86,0,kii,NULL,PennController,95,_Trial_,Start,1782774759278,test,6.193,know,think,MOTHER: okay%2C do you know where to put that?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,86,0,kii,NULL,Selector,selection,Selection,think_option,1782774768823,test,6.193,know,think,MOTHER: okay%2C do you know where to put that?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,86,0,kii,NULL,PennController,95,_Trial_,End,1782774768824,test,6.193,know,think,MOTHER: okay%2C do you know where to put that?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,52,0,tid,NULL,PennController,61,_Trial_,Start,1782774768825,test,5.017,know,think,FATHER: you think  that might be a good idea?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,52,0,tid,NULL,Selector,selection,Selection,know_option,1782774775776,test,5.017,know,think,FATHER: you think  that might be a good idea?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,52,0,tid,NULL,PennController,61,_Trial_,End,1782774775778,test,5.017,know,think,FATHER: you think  that might be a good idea?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,64,0,kdi,NULL,PennController,73,_Trial_,Start,1782774775779,test,3.001,know,think,MOTHER: you know where to... where things go%2C right? ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,64,0,kdi,NULL,Selector,selection,Selection,know_option,1782774791531,test,3.001,know,think,MOTHER: you know where to... where things go%2C right? ,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,64,0,kdi,NULL,PennController,73,_Trial_,End,1782774791532,test,3.001,know,think,MOTHER: you know where to... where things go%2C right? ,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,45,0,tdd,NULL,PennController,54,_Trial_,Start,1782774791533,test,2.147,know,think,MOTHER: I think this is called a wrench.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,45,0,tdd,NULL,Selector,selection,Selection,know_option,1782774796120,test,2.147,know,think,MOTHER: I think this is called a wrench.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,45,0,tdd,NULL,PennController,54,_Trial_,End,1782774796121,test,2.147,know,think,MOTHER: I think this is called a wrench.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,31,0,kdd,NULL,PennController,40,_Trial_,Start,1782774796123,test,1.006,know,think,MOTHER: I know you don't.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,31,0,kdd,NULL,Selector,selection,Selection,know_option,1782774801761,test,1.006,know,think,MOTHER: I know you don't.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,31,0,kdd,NULL,PennController,40,_Trial_,End,1782774801761,test,1.006,know,think,MOTHER: I know you don't.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,4,0,kid,NULL,PennController,13,_Trial_,Start,1782774801763,test,4.009,know,think,MOTHER: you can seeÉ you can see Michael's daddy play%2C you know Michael's daddy plays baseball... for the Red Sox?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,4,0,kid,NULL,Selector,selection,Selection,think_option,1782774821112,test,4.009,know,think,MOTHER: you can seeÉ you can see Michael's daddy play%2C you know Michael's daddy plays baseball... for the Red Sox?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,4,0,kid,NULL,PennController,13,_Trial_,End,1782774821113,test,4.009,know,think,MOTHER: you can seeÉ you can see Michael's daddy play%2C you know Michael's daddy plays baseball... for the Red Sox?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,84,0,kii,NULL,PennController,93,_Trial_,Start,1782774821115,test,6.1,know,think,FATHER: hey%2C you know what would happen if I weren't holding on to this chair?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,84,0,kii,NULL,Selector,selection,Selection,think_option,1782774825986,test,6.1,know,think,FATHER: hey%2C you know what would happen if I weren't holding on to this chair?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,84,0,kii,NULL,PennController,93,_Trial_,End,1782774825987,test,6.1,know,think,FATHER: hey%2C you know what would happen if I weren't holding on to this chair?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,61,0,tid,NULL,PennController,70,_Trial_,Start,1782774825988,test,5.1,know,think,MOTHER: wellÉ do you think it goes in there?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,61,0,tid,NULL,Selector,selection,Selection,know_option,1782774829262,test,5.1,know,think,MOTHER: wellÉ do you think it goes in there?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,61,0,tid,NULL,PennController,70,_Trial_,End,1782774829263,test,5.1,know,think,MOTHER: wellÉ do you think it goes in there?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,73,0,kdi,NULL,PennController,82,_Trial_,Start,1782774829264,test,3.006,know,think,FATHER: I know where that is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,73,0,kdi,NULL,Selector,selection,Selection,think_option,1782774832560,test,3.006,know,think,FATHER: I know where that is.,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,73,0,kdi,NULL,PennController,82,_Trial_,End,1782774832561,test,3.006,know,think,FATHER: I know where that is.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,41,0,tdd,NULL,PennController,50,_Trial_,Start,1782774832562,test,2.022,knew,thought,MOTHER: but Craig isn't so happy any more cause he thought he was going to be able to get it.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,41,0,tdd,NULL,Selector,selection,Selection,know_option,1782774836131,test,2.022,knew,thought,MOTHER: but Craig isn't so happy any more cause he thought he was going to be able to get it.,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,41,0,tdd,NULL,PennController,50,_Trial_,End,1782774836131,test,2.022,knew,thought,MOTHER: but Craig isn't so happy any more cause he thought he was going to be able to get it.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,27,0,kdd,NULL,PennController,36,_Trial_,Start,1782774836132,test,1.021,know,think,MOTHER: I know I definitely need cereal.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,27,0,kdd,NULL,Selector,selection,Selection,think_option,1782774839050,test,1.021,know,think,MOTHER: I know I definitely need cereal.,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,27,0,kdd,NULL,PennController,36,_Trial_,End,1782774839051,test,1.021,know,think,MOTHER: I know I definitely need cereal.,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,9,0,kid,NULL,PennController,18,_Trial_,Start,1782774839052,test,4.001,know,think,MOTHER: oh did she know that was the cat in there?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,9,0,kid,NULL,Selector,selection,Selection,think_option,1782774841864,test,4.001,know,think,MOTHER: oh did she know that was the cat in there?,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,9,0,kid,NULL,PennController,18,_Trial_,End,1782774841865,test,4.001,know,think,MOTHER: oh did she know that was the cat in there?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,91,0,kii,NULL,PennController,100,_Trial_,Start,1782774841866,test,6.276,know,think,MOTHER: do you know what she's wearing?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,91,0,kii,NULL,Selector,selection,Selection,know_option,1782774844572,test,6.276,know,think,MOTHER: do you know what she's wearing?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,91,0,kii,NULL,PennController,100,_Trial_,End,1782774844573,test,6.276,know,think,MOTHER: do you know what she's wearing?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,50,0,tid,NULL,PennController,59,_Trial_,Start,1782774844575,test,5.117,know,think,FATHER: no%2C did you think that Mommy would be or is it somebody else?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,50,0,tid,NULL,Selector,selection,Selection,know_option,1782774847318,test,5.117,know,think,FATHER: no%2C did you think that Mommy would be or is it somebody else?,know_option;think_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,50,0,tid,NULL,PennController,59,_Trial_,End,1782774847319,test,5.117,know,think,FATHER: no%2C did you think that Mommy would be or is it somebody else?,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,63,0,kdi,NULL,PennController,72,_Trial_,Start,1782774847320,test,3.002,know,think,MOTHER: uh oh now I know why they call it a take apart car [laughs]!,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,63,0,kdi,NULL,Selector,selection,Selection,think_option,1782774850342,test,3.002,know,think,MOTHER: uh oh now I know why they call it a take apart car [laughs]!,think_option;know_option
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,63,0,kdi,NULL,PennController,72,_Trial_,End,1782774850342,test,3.002,know,think,MOTHER: uh oh now I know why they call it a take apart car [laughs]!,NULL
+# 13. Comments.
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,93,0,demo,NULL,PennController,2,_Trial_,Start,1782774850344,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,93,0,demo,NULL,Html,bg_form,gender,prefer_not_say,1782774854997,radio button
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,93,0,demo,NULL,PennController,2,_Trial_,End,1782774854997,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,98,0,ask_comment,NULL,PennController,7,_Trial_,Start,1782774854998,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,98,0,ask_comment,NULL,TextInput,feedback,Final,Leave any comments here.,1782774856438,NULL
+1782774856,cc31b40fa9439ef806c6e225121a1034,PennController,98,0,ask_comment,NULL,PennController,7,_Trial_,End,1782774856438,NULL
+#
+# Results on Sun, 19 Jul 2026 17:43:24 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,92,0,consent,NULL,PennController,1,_Trial_,Start,1784479062381,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,92,0,consent,NULL,PennController,1,_Trial_,End,1784479156741,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,0,0,ask_ID,NULL,PennController,0,_Trial_,Start,1784479156747,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,0,0,ask_ID,NULL,TextInput,input_ID,First,,1784479159106,a
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,0,0,ask_ID,NULL,TextInput,input_ID,Final,ad,1784479163038,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,0,0,ask_ID,NULL,PennController,0,_Trial_,End,1784479163038,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,196,0,instructions,NULL,PennController,3,_Trial_,Start,1784479163045,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,196,0,instructions,NULL,PennController,3,_Trial_,End,1784479195564,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,197,0,transition_training,NULL,PennController,4,_Trial_,Start,1784479195569,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,197,0,transition_training,NULL,PennController,4,_Trial_,End,1784479297622,NULL
+# 13. ID.
+# 14. unique_id.
+# 15. correct_option.
+# 16. incorrect_option.
+# 17. target_line.
+# 18. Comments.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,202,0,practice,NULL,PennController,201,_Trial_,Start,1784479297627,ad,30.02,good,bad,MOTHER: cause last time I thought they were good.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,202,0,practice,NULL,Selector,selection,Selection,correct_option,1784479324370,ad,30.02,good,bad,MOTHER: cause last time I thought they were good.,correct_option;incorrect_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,202,0,practice,NULL,PennController,201,_Trial_,End,1784479325875,ad,30.02,good,bad,MOTHER: cause last time I thought they were good.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,201,0,practice,NULL,PennController,200,_Trial_,Start,1784479325880,ad,30.01,tell,say,MOTHER: Martin%2C did you tell Daddy who was working in the kitchen today?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,201,0,practice,NULL,Selector,selection,Selection,correct_option,1784479393474,ad,30.01,tell,say,MOTHER: Martin%2C did you tell Daddy who was working in the kitchen today?,incorrect_option;correct_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,201,0,practice,NULL,PennController,200,_Trial_,End,1784479394980,ad,30.01,tell,say,MOTHER: Martin%2C did you tell Daddy who was working in the kitchen today?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,203,0,practice,NULL,PennController,202,_Trial_,Start,1784479394986,ad,30.03,from,to,MOTHER: first we gotta put away the dishes from dinner.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,203,0,practice,NULL,Selector,selection,Selection,correct_option,1784479542175,ad,30.03,from,to,MOTHER: first we gotta put away the dishes from dinner.,correct_option;incorrect_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,203,0,practice,NULL,PennController,202,_Trial_,End,1784479543681,ad,30.03,from,to,MOTHER: first we gotta put away the dishes from dinner.,NULL
+# 13. Comments.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,198,0,transition_test,NULL,PennController,5,_Trial_,Start,1784479543688,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,198,0,transition_test,NULL,PennController,5,_Trial_,End,1784479574597,NULL
+# 13. ID.
+# 14. unique_id.
+# 15. wear_option.
+# 16. dress_option.
+# 17. target_line.
+# 18. Comments.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,98,0,filler_action,NULL,PennController,102,_Trial_,Start,1784479574604,ad,20.05,worn,dressed,FATHER:    so Jacyntha comes out dressed up as what?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,98,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784479587874,ad,20.05,worn,dressed,FATHER:    so Jacyntha comes out dressed up as what?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,98,0,filler_action,NULL,PennController,102,_Trial_,End,1784479587876,ad,20.05,worn,dressed,FATHER:    so Jacyntha comes out dressed up as what?,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,133,0,filler_article,NULL,PennController,137,_Trial_,Start,1784479587882,ad,10.28,the,a,FATHER: it's a pretty silly book%2C huh?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,133,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784479627167,ad,10.28,the,a,FATHER: it's a pretty silly book%2C huh?,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,133,0,filler_article,NULL,PennController,137,_Trial_,End,1784479627170,ad,10.28,the,a,FATHER: it's a pretty silly book%2C huh?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,96,0,filler_action,NULL,PennController,100,_Trial_,Start,1784479627175,ad,20.01,worn,dressed,FATHER: and she's dressed up like a nurse.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,96,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784479650370,ad,20.01,worn,dressed,FATHER: and she's dressed up like a nurse.,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,96,0,filler_action,NULL,PennController,100,_Trial_,End,1784479650372,ad,20.01,worn,dressed,FATHER: and she's dressed up like a nurse.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,141,0,filler_article,NULL,PennController,145,_Trial_,Start,1784479650377,ad,10.36,the,a,MOTHER:   doesn't look like a piano.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,141,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784479670835,ad,10.36,the,a,MOTHER:   doesn't look like a piano.,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,141,0,filler_article,NULL,PennController,145,_Trial_,End,1784479670838,ad,10.36,the,a,MOTHER:   doesn't look like a piano.,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,48,0,test_kid,NULL,PennController,54,_Trial_,Start,1784479670842,ad,4.002,know,think,FATHER: did his mother know he was here?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,48,0,test_kid,NULL,Selector,selection,Selection,know_option,1784479690661,ad,4.002,know,think,FATHER: did his mother know he was here?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,48,0,test_kid,NULL,PennController,54,_Trial_,End,1784479690663,ad,4.002,know,think,FATHER: did his mother know he was here?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,36,0,test_kdi,NULL,PennController,42,_Trial_,Start,1784479690668,ad,3.006,know,think,FATHER:   I know where that is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,36,0,test_kdi,NULL,Selector,selection,Selection,know_option,1784479709184,ad,3.006,know,think,FATHER:   I know where that is.,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,36,0,test_kdi,NULL,PennController,42,_Trial_,End,1784479709186,ad,3.006,know,think,FATHER:   I know where that is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,10,0,test_kdd,NULL,PennController,16,_Trial_,Start,1784479709191,ad,1.014,know,think,FATHER:    I know one of the wheels goes in here%2C right? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,10,0,test_kdd,NULL,Selector,selection,Selection,think_option,1784479732367,ad,1.014,know,think,FATHER:    I know one of the wheels goes in here%2C right? ,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,10,0,test_kdd,NULL,PennController,16,_Trial_,End,1784479732370,ad,1.014,know,think,FATHER:    I know one of the wheels goes in here%2C right? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,22,0,test_kii,NULL,PennController,28,_Trial_,Start,1784479732375,ad,6.096,know,think,FATHER:    but you know what you could use this as?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,22,0,test_kii,NULL,Selector,selection,Selection,know_option,1784479750064,ad,6.096,know,think,FATHER:    but you know what you could use this as?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,22,0,test_kii,NULL,PennController,28,_Trial_,End,1784479750065,ad,6.096,know,think,FATHER:    but you know what you could use this as?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,97,0,filler_action,NULL,PennController,101,_Trial_,Start,1784479750069,ad,21.05,wearing,dressing,MOTHER:    your first day of wearing your new jammie blanket?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,97,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784479777646,ad,21.05,wearing,dressing,MOTHER:    your first day of wearing your new jammie blanket?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,97,0,filler_action,NULL,PennController,101,_Trial_,End,1784479777648,ad,21.05,wearing,dressing,MOTHER:    your first day of wearing your new jammie blanket?,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,77,0,test_tid,NULL,PennController,83,_Trial_,Start,1784479777652,ad,5.005,know,think,MOTHER:  you think you can fix my car next time it breaks?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,77,0,test_tid,NULL,Selector,selection,Selection,think_option,1784479793681,ad,5.005,know,think,MOTHER:  you think you can fix my car next time it breaks?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,77,0,test_tid,NULL,PennController,83,_Trial_,End,1784479793683,ad,5.005,know,think,MOTHER:  you think you can fix my car next time it breaks?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,72,0,test_tdd,NULL,PennController,78,_Trial_,Start,1784479793686,ad,2.212,knew,thought,FATHER:   I thought you were my baby.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,72,0,test_tdd,NULL,Selector,selection,Selection,think_option,1784479809448,ad,2.212,knew,thought,FATHER:   I thought you were my baby.,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,72,0,test_tdd,NULL,PennController,78,_Trial_,End,1784479809451,ad,2.212,knew,thought,FATHER:   I thought you were my baby.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,145,0,filler_article,NULL,PennController,149,_Trial_,Start,1784479809456,ad,10.4,the,a,FATHER: I'm glad you used the black one.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,145,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784479828174,ad,10.4,the,a,FATHER: I'm glad you used the black one.,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,145,0,filler_article,NULL,PennController,149,_Trial_,End,1784479828176,ad,10.4,the,a,FATHER: I'm glad you used the black one.,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,101,0,filler_action,NULL,PennController,105,_Trial_,Start,1784479828180,ad,21.06,wore,dressed,MOTHER:  because%2C remember last time%2C we wore the earphones%2C when we listened to the record?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,101,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784479861272,ad,21.06,wore,dressed,MOTHER:  because%2C remember last time%2C we wore the earphones%2C when we listened to the record?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,101,0,filler_action,NULL,PennController,105,_Trial_,End,1784479861273,ad,21.06,wore,dressed,MOTHER:  because%2C remember last time%2C we wore the earphones%2C when we listened to the record?,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,166,0,filler_article,NULL,PennController,170,_Trial_,Start,1784479861277,ad,10.61,the,a,MOTHER:    "I don't have a kitty anymore.",NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,166,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784479873598,ad,10.61,the,a,MOTHER:    "I don't have a kitty anymore.",definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,166,0,filler_article,NULL,PennController,170,_Trial_,End,1784479873601,ad,10.61,the,a,MOTHER:    "I don't have a kitty anymore.",NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,51,0,test_kid,NULL,PennController,57,_Trial_,Start,1784479873605,ad,4.008,know,think,MOTHER:    you know that Betty's going to bring that dog to Israel?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,51,0,test_kid,NULL,Selector,selection,Selection,think_option,1784479893129,ad,4.008,know,think,MOTHER:    you know that Betty's going to bring that dog to Israel?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,51,0,test_kid,NULL,PennController,57,_Trial_,End,1784479893131,ad,4.008,know,think,MOTHER:    you know that Betty's going to bring that dog to Israel?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,32,0,test_kdi,NULL,PennController,38,_Trial_,Start,1784479893135,ad,3.001,know,think,MOTHER:    you know where to... where things go%2C right? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,32,0,test_kdi,NULL,Selector,selection,Selection,know_option,1784479907044,ad,3.001,know,think,MOTHER:    you know where to... where things go%2C right? ,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,32,0,test_kdi,NULL,PennController,38,_Trial_,End,1784479907046,ad,3.001,know,think,MOTHER:    you know where to... where things go%2C right? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,6,0,test_kdd,NULL,PennController,12,_Trial_,Start,1784479907049,ad,1.005,know,think,MOTHER:   I know you have Rice Krispies here in the store someplace.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,6,0,test_kdd,NULL,Selector,selection,Selection,know_option,1784479960932,ad,1.005,know,think,MOTHER:   I know you have Rice Krispies here in the store someplace.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,6,0,test_kdd,NULL,PennController,12,_Trial_,End,1784479960934,ad,1.005,know,think,MOTHER:   I know you have Rice Krispies here in the store someplace.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,26,0,test_kii,NULL,PennController,32,_Trial_,Start,1784479960937,ad,6.177,know,think,MOTHER:    you know how it works?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,26,0,test_kii,NULL,Selector,selection,Selection,know_option,1784480051020,ad,6.177,know,think,MOTHER:    you know how it works?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,26,0,test_kii,NULL,PennController,32,_Trial_,End,1784480051022,ad,6.177,know,think,MOTHER:    you know how it works?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,104,0,filler_action,NULL,PennController,108,_Trial_,Start,1784480051026,ad,20.04,worn,dressed,MOTHER:look at her%2C she's all dressed up%2C isn't she?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,104,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784480083513,ad,20.04,worn,dressed,MOTHER:look at her%2C she's all dressed up%2C isn't she?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,104,0,filler_action,NULL,PennController,108,_Trial_,End,1784480083516,ad,20.04,worn,dressed,MOTHER:look at her%2C she's all dressed up%2C isn't she?,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,85,0,test_tid,NULL,PennController,91,_Trial_,Start,1784480083521,ad,5.057,know,think,FATHER:  do you think we should put this back together again... alright oh. ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,85,0,test_tid,NULL,Selector,selection,Selection,think_option,1784480128060,ad,5.057,know,think,FATHER:  do you think we should put this back together again... alright oh. ,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,85,0,test_tid,NULL,PennController,91,_Trial_,End,1784480128062,ad,5.057,know,think,FATHER:  do you think we should put this back together again... alright oh. ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,63,0,test_tdd,NULL,PennController,69,_Trial_,Start,1784480128067,ad,2.062,know,think,MOTHER:  I think you might like them.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,63,0,test_tdd,NULL,Selector,selection,Selection,know_option,1784480145392,ad,2.062,know,think,MOTHER:  I think you might like them.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,63,0,test_tdd,NULL,PennController,69,_Trial_,End,1784480145393,ad,2.062,know,think,MOTHER:  I think you might like them.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,189,0,filler_article,NULL,PennController,193,_Trial_,Start,1784480145398,ad,10.84,the,a,FATHER:   okay%2C so she's wheeling her kittycat in a baby stroller.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,189,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784480162351,ad,10.84,the,a,FATHER:   okay%2C so she's wheeling her kittycat in a baby stroller.,indefinite_option;definite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,189,0,filler_article,NULL,PennController,193,_Trial_,End,1784480162354,ad,10.84,the,a,FATHER:   okay%2C so she's wheeling her kittycat in a baby stroller.,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,94,0,filler_action,NULL,PennController,98,_Trial_,Start,1784480162358,ad,21.03,wearing,dressing,MOTHER: TJ was wearing a silly hat?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,94,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784480885466,ad,21.03,wearing,dressing,MOTHER: TJ was wearing a silly hat?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,94,0,filler_action,NULL,PennController,98,_Trial_,End,1784480885468,ad,21.03,wearing,dressing,MOTHER: TJ was wearing a silly hat?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,102,0,filler_action,NULL,PennController,106,_Trial_,Start,1784480885471,ad,20.03,worn,dressed,MOTHER:  looks like a little girl dressed up... taking somebody for a ride in a carriage.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,102,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784480898972,ad,20.03,worn,dressed,MOTHER:  looks like a little girl dressed up... taking somebody for a ride in a carriage.,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,102,0,filler_action,NULL,PennController,106,_Trial_,End,1784480898975,ad,20.03,worn,dressed,MOTHER:  looks like a little girl dressed up... taking somebody for a ride in a carriage.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,176,0,filler_article,NULL,PennController,180,_Trial_,Start,1784480898979,ad,10.71,the,a,MOTHER:  could you turn this one with the screwdriver?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,176,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784480914365,ad,10.71,the,a,MOTHER:  could you turn this one with the screwdriver?,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,176,0,filler_article,NULL,PennController,180,_Trial_,End,1784480914368,ad,10.71,the,a,MOTHER:  could you turn this one with the screwdriver?,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,60,0,test_kid,NULL,PennController,66,_Trial_,Start,1784480914373,ad,4.019,know,think,FATHER:  did you know there was a store in here?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,60,0,test_kid,NULL,Selector,selection,Selection,know_option,1784480943445,ad,4.019,know,think,FATHER:  did you know there was a store in here?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,60,0,test_kid,NULL,PennController,66,_Trial_,End,1784480943448,ad,4.019,know,think,FATHER:  did you know there was a store in here?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,43,0,test_kdi,NULL,PennController,49,_Trial_,Start,1784480943452,ad,3.0154,know,think,MOTHER: I know what happens.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,43,0,test_kdi,NULL,Selector,selection,Selection,know_option,1784480952763,ad,3.0154,know,think,MOTHER: I know what happens.,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,43,0,test_kdi,NULL,PennController,49,_Trial_,End,1784480952766,ad,3.0154,know,think,MOTHER: I know what happens.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,12,0,test_kdd,NULL,PennController,18,_Trial_,Start,1784480952770,ad,1.016,know,think,MOTHER:    I know it's not a big favor. [laugh],NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,12,0,test_kdd,NULL,Selector,selection,Selection,think_option,1784480972337,ad,1.016,know,think,MOTHER:    I know it's not a big favor. [laugh],know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,12,0,test_kdd,NULL,PennController,18,_Trial_,End,1784480972338,ad,1.016,know,think,MOTHER:    I know it's not a big favor. [laugh],NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,24,0,test_kii,NULL,PennController,30,_Trial_,Start,1784480972342,ad,6.17,know,think,MOTHER: and you know what she does?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,24,0,test_kii,NULL,Selector,selection,Selection,know_option,1784480984195,ad,6.17,know,think,MOTHER: and you know what she does?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,24,0,test_kii,NULL,PennController,30,_Trial_,End,1784480984197,ad,6.17,know,think,MOTHER: and you know what she does?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,99,0,filler_action,NULL,PennController,103,_Trial_,Start,1784480984201,ad,20.06,wore,dressed,MOTHER:   remember this morning you dressed up like that lady?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,99,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784481008384,ad,20.06,wore,dressed,MOTHER:   remember this morning you dressed up like that lady?,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,99,0,filler_action,NULL,PennController,103,_Trial_,End,1784481008386,ad,20.06,wore,dressed,MOTHER:   remember this morning you dressed up like that lady?,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,88,0,test_tid,NULL,PennController,94,_Trial_,Start,1784481008390,ad,5.083,know,think,FATHER:    do you think that cat looks happy? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,88,0,test_tid,NULL,Selector,selection,Selection,think_option,1784481025150,ad,5.083,know,think,FATHER:    do you think that cat looks happy? ,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,88,0,test_tid,NULL,PennController,94,_Trial_,End,1784481025152,ad,5.083,know,think,FATHER:    do you think that cat looks happy? ,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,69,0,test_tdd,NULL,PennController,75,_Trial_,Start,1784481025156,ad,2.166,know,think,MOTHER:  but I think they're gonna put it there by themselves once they assemble it.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,69,0,test_tdd,NULL,Selector,selection,Selection,think_option,1784481172023,ad,2.166,know,think,MOTHER:  but I think they're gonna put it there by themselves once they assemble it.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,69,0,test_tdd,NULL,PennController,75,_Trial_,End,1784481172025,ad,2.166,know,think,MOTHER:  but I think they're gonna put it there by themselves once they assemble it.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,173,0,filler_article,NULL,PennController,177,_Trial_,Start,1784481172030,ad,10.68,the,a,FATHER:  that's the part... I'm interested in.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,173,0,filler_article,NULL,Selector,selection,Selection,definite_option,1784481202455,ad,10.68,the,a,FATHER:  that's the part... I'm interested in.,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,173,0,filler_article,NULL,PennController,177,_Trial_,End,1784481202457,ad,10.68,the,a,FATHER:  that's the part... I'm interested in.,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,103,0,filler_action,NULL,PennController,107,_Trial_,Start,1784481202461,ad,21.02,wear,dress,MOTHER:   you wear a life jacket honey.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,103,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784482510153,ad,21.02,wear,dress,MOTHER:   you wear a life jacket honey.,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,103,0,filler_action,NULL,PennController,107,_Trial_,End,1784482510156,ad,21.02,wear,dress,MOTHER:   you wear a life jacket honey.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,138,0,filler_article,NULL,PennController,142,_Trial_,Start,1784482510161,ad,10.33,the,a,MOTHER:    and the cat is watching.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,138,0,filler_article,NULL,Selector,selection,Selection,definite_option,1784482755255,ad,10.33,the,a,MOTHER:    and the cat is watching.,indefinite_option;definite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,138,0,filler_article,NULL,PennController,142,_Trial_,End,1784482755256,ad,10.33,the,a,MOTHER:    and the cat is watching.,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,59,0,test_kid,NULL,PennController,65,_Trial_,Start,1784482755260,ad,4.018,know,think,FATHER:  did you know there was water on the other side?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,59,0,test_kid,NULL,Selector,selection,Selection,know_option,1784482763781,ad,4.018,know,think,FATHER:  did you know there was water on the other side?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,59,0,test_kid,NULL,PennController,65,_Trial_,End,1784482763784,ad,4.018,know,think,FATHER:  did you know there was water on the other side?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,41,0,test_kdi,NULL,PennController,47,_Trial_,Start,1784482763788,ad,3.013,know,think,FATHER:    I know what it is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,41,0,test_kdi,NULL,Selector,selection,Selection,know_option,1784482769207,ad,3.013,know,think,FATHER:    I know what it is.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,41,0,test_kdi,NULL,PennController,47,_Trial_,End,1784482769210,ad,3.013,know,think,FATHER:    I know what it is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,16,0,test_kdd,NULL,PennController,22,_Trial_,Start,1784482769214,ad,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,16,0,test_kdd,NULL,Selector,selection,Selection,know_option,1784482778149,ad,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,16,0,test_kdd,NULL,PennController,22,_Trial_,End,1784482778152,ad,1.023,knew,thought,MOTHER: I knew it kept spinning and it wasn't doing any good.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,23,0,test_kii,NULL,PennController,29,_Trial_,Start,1784482778157,ad,6.1,know,think,FATHER:  hey%2C you know what would happen if I weren't holding on to this chair?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,23,0,test_kii,NULL,Selector,selection,Selection,know_option,1784482787195,ad,6.1,know,think,FATHER:  hey%2C you know what would happen if I weren't holding on to this chair?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,23,0,test_kii,NULL,PennController,29,_Trial_,End,1784482787198,ad,6.1,know,think,FATHER:  hey%2C you know what would happen if I weren't holding on to this chair?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,100,0,filler_action,NULL,PennController,104,_Trial_,Start,1784482787202,ad,21.04,wearing,dressing,MOTHER:  he's wearing a hat.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,100,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784482791621,ad,21.04,wearing,dressing,MOTHER:  he's wearing a hat.,wear_option;dress_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,100,0,filler_action,NULL,PennController,104,_Trial_,End,1784482791623,ad,21.04,wearing,dressing,MOTHER:  he's wearing a hat.,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,84,0,test_tid,NULL,PennController,90,_Trial_,Start,1784482791627,ad,5.041,know,think,INVESTIGATOR:   do you think you might like to try the car again?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,84,0,test_tid,NULL,Selector,selection,Selection,think_option,1784482801830,ad,5.041,know,think,INVESTIGATOR:   do you think you might like to try the car again?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,84,0,test_tid,NULL,PennController,90,_Trial_,End,1784482801833,ad,5.041,know,think,INVESTIGATOR:   do you think you might like to try the car again?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,68,0,test_tdd,NULL,PennController,74,_Trial_,Start,1784482801837,ad,2.153,know,think,MOTHER:    I think this is a funny funny book that doesn't have any words.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,68,0,test_tdd,NULL,Selector,selection,Selection,think_option,1784482811518,ad,2.153,know,think,MOTHER:    I think this is a funny funny book that doesn't have any words.,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,68,0,test_tdd,NULL,PennController,74,_Trial_,End,1784482811520,ad,2.153,know,think,MOTHER:    I think this is a funny funny book that doesn't have any words.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,187,0,filler_article,NULL,PennController,191,_Trial_,Start,1784482811525,ad,10.82,the,a,FATHER:   okay%2C we got the bug out.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,187,0,filler_article,NULL,Selector,selection,Selection,definite_option,1784482881951,ad,10.82,the,a,FATHER:   okay%2C we got the bug out.,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,187,0,filler_article,NULL,PennController,191,_Trial_,End,1784482881952,ad,10.82,the,a,FATHER:   okay%2C we got the bug out.,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,105,0,filler_action,NULL,PennController,109,_Trial_,Start,1784482881955,ad,20.01,worn,dressed,MOTHER:  when you get dressed up when you're over there.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,105,0,filler_action,NULL,Selector,selection,Selection,dress_option,1784482898975,ad,20.01,worn,dressed,MOTHER:  when you get dressed up when you're over there.,dress_option;wear_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,105,0,filler_action,NULL,PennController,109,_Trial_,End,1784482898977,ad,20.01,worn,dressed,MOTHER:  when you get dressed up when you're over there.,NULL
+# 15. definite_option.
+# 16. indefinite_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,148,0,filler_article,NULL,PennController,152,_Trial_,Start,1784482898980,ad,10.43,the,a,MOTHER:  she's not dressed like a Mommy anymore.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,148,0,filler_article,NULL,Selector,selection,Selection,indefinite_option,1784482907021,ad,10.43,the,a,MOTHER:  she's not dressed like a Mommy anymore.,definite_option;indefinite_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,148,0,filler_article,NULL,PennController,152,_Trial_,End,1784482907024,ad,10.43,the,a,MOTHER:  she's not dressed like a Mommy anymore.,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,53,0,test_kid,NULL,PennController,59,_Trial_,Start,1784482907028,ad,4.01,know,think,MOTHER:   do you know they don't have bagels in Israel?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,53,0,test_kid,NULL,Selector,selection,Selection,know_option,1784482917326,ad,4.01,know,think,MOTHER:   do you know they don't have bagels in Israel?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,53,0,test_kid,NULL,PennController,59,_Trial_,End,1784482917329,ad,4.01,know,think,MOTHER:   do you know they don't have bagels in Israel?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,40,0,test_kdi,NULL,PennController,46,_Trial_,Start,1784482917333,ad,3.012,know,think,MOTHER:  I know what it is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,40,0,test_kdi,NULL,Selector,selection,Selection,know_option,1784482922991,ad,3.012,know,think,MOTHER:  I know what it is.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,40,0,test_kdi,NULL,PennController,46,_Trial_,End,1784482922993,ad,3.012,know,think,MOTHER:  I know what it is.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,8,0,test_kdd,NULL,PennController,14,_Trial_,Start,1784482922997,ad,1.008,know,think,MOTHER:    I know you do.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,8,0,test_kdd,NULL,Selector,selection,Selection,know_option,1784482930213,ad,1.008,know,think,MOTHER:    I know you do.,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,8,0,test_kdd,NULL,PennController,14,_Trial_,End,1784482930216,ad,1.008,know,think,MOTHER:    I know you do.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,31,0,test_kii,NULL,PennController,37,_Trial_,Start,1784482930221,ad,6.276,know,think,MOTHER:   do you know what she's wearing?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,31,0,test_kii,NULL,Selector,selection,Selection,know_option,1784482935398,ad,6.276,know,think,MOTHER:   do you know what she's wearing?,know_option;think_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,31,0,test_kii,NULL,PennController,37,_Trial_,End,1784482935401,ad,6.276,know,think,MOTHER:   do you know what she's wearing?,NULL
+# 15. wear_option.
+# 16. dress_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,95,0,filler_action,NULL,PennController,99,_Trial_,Start,1784482935405,ad,21.01,wear,dress,FATHER:  did you wear water wings?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,95,0,filler_action,NULL,Selector,selection,Selection,wear_option,1784482942022,ad,21.01,wear,dress,FATHER:  did you wear water wings?,wear_option;dress_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,95,0,filler_action,NULL,PennController,99,_Trial_,End,1784482942024,ad,21.01,wear,dress,FATHER:  did you wear water wings?,NULL
+# 15. know_option.
+# 16. think_option.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,91,0,test_tid,NULL,PennController,97,_Trial_,Start,1784482942028,ad,5.117,know,think,FATHER:    no%2C did you think that Mommy would be or is it somebody else?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,91,0,test_tid,NULL,Selector,selection,Selection,know_option,1784482962617,ad,5.117,know,think,FATHER:    no%2C did you think that Mommy would be or is it somebody else?,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,91,0,test_tid,NULL,PennController,97,_Trial_,End,1784482962620,ad,5.117,know,think,FATHER:    no%2C did you think that Mommy would be or is it somebody else?,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,70,0,test_tdd,NULL,PennController,76,_Trial_,Start,1784482962624,ad,2.17,know,think,FATHER: I think they're all empty%2C pet.,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,70,0,test_tdd,NULL,Selector,selection,Selection,think_option,1784482969450,ad,2.17,know,think,FATHER: I think they're all empty%2C pet.,think_option;know_option
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,70,0,test_tdd,NULL,PennController,76,_Trial_,End,1784482969453,ad,2.17,know,think,FATHER: I think they're all empty%2C pet.,NULL
+# 13. Comments.
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,93,0,demo,NULL,PennController,2,_Trial_,Start,1784482969457,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,93,0,demo,NULL,Html,bg_form,gender,woman,1784482983187,radio button
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,93,0,demo,NULL,PennController,2,_Trial_,End,1784482983187,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,200,0,ask_comment,NULL,PennController,7,_Trial_,Start,1784482983191,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,200,0,ask_comment,NULL,TextInput,feedback,Final,Leave any comments here.,1784482986071,NULL
+1784483004,ceacf45832265366cb470b7fdec1f57c,PennController,200,0,ask_comment,NULL,PennController,7,_Trial_,End,1784482986071,NULL
