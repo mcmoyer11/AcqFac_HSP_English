@@ -57,9 +57,6 @@ read.pcibex <- function(filepath, auto.colnames=TRUE, fun.col=function(col,cols)
 # Read in the results
 d <- read.pcibex("../data/results_null.csv")
 length(unique(d$MD5.hash.of.participant.s.IP.address))
-
-names(d)
-
 ```
 
 
